@@ -1,2 +1,1 @@
-# Python_Practice
-Python programming
+# AI Engineer Notes
